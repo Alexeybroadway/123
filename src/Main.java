@@ -18,6 +18,5 @@ public class Main {
         System.out.println(cat);
         papper = papper - 7639;
         System.out.println(papper);
-
     }
 }
